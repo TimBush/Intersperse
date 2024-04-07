@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersperse", "Intersperse\Intersperse.csproj", "{636FEA56-D0D6-41C3-9FEF-2B768654DB6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersperse.Tests", "Intersperse.Tests\Intersperse.Tests.csproj", "{29BA75CC-C869-4AEA-BF00-5D24E37088A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{636FEA56-D0D6-41C3-9FEF-2B768654DB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{636FEA56-D0D6-41C3-9FEF-2B768654DB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{636FEA56-D0D6-41C3-9FEF-2B768654DB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BA75CC-C869-4AEA-BF00-5D24E37088A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BA75CC-C869-4AEA-BF00-5D24E37088A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BA75CC-C869-4AEA-BF00-5D24E37088A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BA75CC-C869-4AEA-BF00-5D24E37088A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

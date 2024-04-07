@@ -2,5 +2,5 @@
 
 public interface IKey
 {
-    
+    public string KeySize { get; }
 }

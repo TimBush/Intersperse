@@ -1,9 +1,9 @@
 ﻿namespace Intersperse.Tests.Fakes;
 
-public class Size
+public class KeyboardSize
 {
-    public ISize Size { get; }
-    public Size(ISize size)
+    public IKeyboardSize Size { get; }
+    public KeyboardSize(IKeyboardSize size)
     {
         Size = size;
     }

@@ -1,6 +1,6 @@
 ﻿namespace Intersperse.Tests.Fakes;
 
-public class TklSize : ISize
+public class TklKeyboardSize : IKeyboardSize
 {
     public int NumOfKeys => 87;
 }

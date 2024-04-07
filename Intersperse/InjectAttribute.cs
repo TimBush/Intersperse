@@ -1,6 +1,5 @@
 ﻿namespace Intersperse;
 
-public class InjectAttribute
+public class InjectAttribute : Attribute
 {
-    
 }
